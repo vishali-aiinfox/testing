@@ -1,2 +1,2 @@
-# testing purpose is reviews of
+# testing a purpose is reviews of
 for testing
